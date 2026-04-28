@@ -8,6 +8,7 @@ public class diagonal_sum {
        int[][] matrix = {{1, 2, 3},{4, 6, 6},{7, 8, 9}} ;
        print(matrix);
        int sum=0;
+       //write digonal some
 //       for(int i=0;i<matrix.length;i++){
 //           for (int j=0;j<matrix[0].length;j++){
 //               if (i==j) sum=sum+matrix[i][j];
