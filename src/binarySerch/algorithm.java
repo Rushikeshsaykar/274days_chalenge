@@ -11,7 +11,7 @@ public class algorithm {
             if(arr[mid]>target) hi=mid-1;
             else if(arr[mid]<target) lo=mid+1;
             else{ System.out.println("target found at index"+mid);
-                       break;
+                break;
         }
         }
 
